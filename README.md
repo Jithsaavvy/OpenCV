@@ -1,3 +1,6 @@
-# OpenCV
+# Pattern Recognition
 
-Implemented some tasks using opencv like face detection, Pattern matching [Template matching] with reference from docs.opencv.org
+Implemented Pattern Recognition using templatematching() - OpenCV as a learning phase.
+
+**Reference:**
+https://docs.opencv.org
